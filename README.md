@@ -66,6 +66,10 @@
 
 </p>
 
+## 🐍 Contribution Snake (Live Animation)
+
+![snake dark](https://github.com/ChandanGhub/ChandanGhub/blob/output/snake.svg)
+
 # 📈 Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChandanGhub&theme=tokyo-night&hide_border=true" />
