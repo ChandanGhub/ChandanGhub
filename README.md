@@ -84,7 +84,7 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="www.linkedin.com/in/chandan1500>
+  <a href="www.linkedin.com/in/chandan1500">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   
