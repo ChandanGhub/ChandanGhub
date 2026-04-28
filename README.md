@@ -81,4 +81,14 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ChandanGhub&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
+## 🌐 Connect With Me
 
+<p align="center">
+  <a href="www.linkedin.com/in/chandan1500>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  
+  <a href="mailto:chandankr03@yahoo.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
