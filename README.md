@@ -3,15 +3,15 @@
 ========================= -->
 
 <!-- =========================
-        NEW HEADER DESIGN
+        CLEAN AI/ML HEADER
 ========================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=200&section=header&text=Chandan%20Kumar&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20%26%20Machine%20Learning%20Engineer&descAlignY=65" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Chandan%20Kumar&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20ML%20Engineer%20%7C%20Python%20Developer&descAlignY=65" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+Enthusiast;Machine+Learning+Developer;Building+Smart+Solutions+🚀;Always+Learning+New+Things+🧠" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+%26+Machine+Learning;Deep+Learning+Enthusiast;Building+Smart+AI+Solutions;Always+Learning+%F0%9F%9A%80" />
 </p>
 
 <!-- Typing Animation -->
