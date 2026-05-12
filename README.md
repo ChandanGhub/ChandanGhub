@@ -1,12 +1,11 @@
 <!-- Animated -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=220&section=header&text=Chandan%20Kumar&fontSize=45&fontColor=00FFF7&animation=fadeIn&fontAlignY=40&desc=AI%20%7C%20ML%20Engineer%20%7C%20Python%20Developer&descAlignY=65" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f0f0f&height=220&section=header&text=Chandan%20Kumar&fontSize=45&fontColor=00FF00&animation=fadeIn&fontAlignY=40&desc=AI%20Hacker%20%7C%20Machine%20Learning%20Engineer&descAlignY=65" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Neural+Networks+%7C+Deep+Learning+%7C+AI+Systems;Building+Smart+Futuristic+Solutions;Code+%7C+Learn+%7C+Innovate+⚡" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00FF00&center=true&vCenter=true&width=900&lines=Accessing+Neural+Networks...;Training+AI+Models...;Decrypting+Data+Patterns...;System+Online+✔" />
 </p>
-
 <!-- Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Hi!+👋+I'm+Chandan+Kumar;A+passionate+B.Tech+Computer+Science+(AI%2FML)+Engineer;AI%2FML+Enthusiast+🤖;Passionate+Developer+🚀" />
