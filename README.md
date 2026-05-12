@@ -84,7 +84,7 @@
 
 
 
-## 🐍 Contribution Snake (Live Animation)
+# 🐍 Contribution Snake (Live Animation)
 
 ![snake dark](https://github.com/ChandanGhub/ChandanGhub/blob/output/snake.svg)
 
