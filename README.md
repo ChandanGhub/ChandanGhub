@@ -8,40 +8,10 @@
 - 🤔 I’m looking for help with AI/ML internship.
 - 🧠 I'm Strong in DSA & Problem Solving.
 
-<h1 align="center">
-  Hi 👋, I'm Chandan Kumar
-</h1>
-
-<h3 align="center">
-  🚀 Passionate B.Tech Computer Science (AI/ML) Engineer
-</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+%26+Machine+Learning+Enthusiast;B.Tech+Computer+Science+Engineer;Passionate+Developer+%F0%9F%92%BB;Always+Learning+New+Technologies+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi!+%F0%9F%91%8B+I'm+Chandan+Kumar;Passionate+B.Tech+Computer+Science+(AI%2FML)+Engineer" alt="Typing Animation" />
 </p>
 
----
-
-### 🌟 About Me
-- 🎓 B.Tech CSE (AI/ML) Student  
-- 🤖 Interested in Artificial Intelligence & Machine Learning  
-- 💻 Passionate about Coding & Development  
-- 🚀 Exploring Open Source and New Technologies  
-
----
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ChandanGhub&theme=tokyonight&row=1&column=6" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChandanGhub&show_icons=true&theme=tokyonight" height="180em"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChandanGhub&theme=tokyonight" height="180em"/>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=120&section=footer"/>
-</p>
 
   ## 🚀 Tech Stack
 
