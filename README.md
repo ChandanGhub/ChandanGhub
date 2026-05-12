@@ -82,8 +82,8 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ChandanGhub&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChandanGhub&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
+  <img src="https://streak-stats.demolab.com?user=ChandanGhub&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChandanGhub&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
