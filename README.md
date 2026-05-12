@@ -1,10 +1,11 @@
 <!-- Animated -->
+
 <!-- =========================
-        CLEAN AI/ML HEADER
+        NEON GLOW HEADER
 ========================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Chandan%20Kumar&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20ML%20Engineer%20%7C%20Python%20Developer&descAlignY=65" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00F7FF&height=220&section=header&text=Chandan%20Kumar&fontSize=45&fontColor=00F7FF&animation=fadeIn&fontAlignY=40&desc=AI%20ML%20Engineer%20%7C%20Python%20Developer&descColor=00F7FF&descAlignY=65" />
 </p>
 
 <p align="center">
