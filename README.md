@@ -21,17 +21,3 @@
 
 # 🧠 About Me
 
-```python
-class ChandanKumar:
-
-    def __init__(self):
-        self.role = "B.Tech CSE (AI/ML) Engineer"
-        self.learning = ["Machine Learning", "Deep Learning", "Web Development"]
-        self.languages = ["Python", "C", "JavaScript"]
-        self.interests = ["AI", "Open Source", "Automation"]
-
-    def say_hi(self):
-        print("Thanks for visiting my GitHub Profile!")
-
-me = ChandanKumar()
-me.say_hi()
