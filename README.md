@@ -1,5 +1,10 @@
 # ⭐ About Me
-# Hi!👋I'm Chandan Kumar, a passionate B.Tech Computer Science (AI/ML) Engineer.
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi!+%F0%9F%91%8B+I'm+Chandan+Kumar ;Passionate+B.Tech+Computer+Science+(AI%2FML)+Engineer" alt="Typing Animation" />
+</p>
+
+
 ## I specialize in building intelligent systems using Machine Learning, Deep Learning, and AI Agents. I enjoy solving real-world problems using data-driven approaches and continuously exploring new technologies.
 
 - 🔭 I’m currently working on MultiAgent System.
@@ -8,9 +13,6 @@
 - 🤔 I’m looking for help with AI/ML internship.
 - 🧠 I'm Strong in DSA & Problem Solving.
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi!+%F0%9F%91%8B+I'm+Chandan+Kumar;Passionate+B.Tech+Computer+Science+(AI%2FML)+Engineer" alt="Typing Animation" />
-</p>
 
 
   ## 🚀 Tech Stack
