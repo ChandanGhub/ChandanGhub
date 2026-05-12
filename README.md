@@ -12,6 +12,23 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Hi!+👋+I'm+Chandan+Kumar;A+passionate+B.Tech+Computer+Science+(AI%2FML)+Engineer;AI%2FML+Enthusiast+🤖;Passionate+Developer+🚀" />
 </p>
 
+---
+
+---
+
+# 🤖 AI / ML Focus
+
+<p align="center">
+  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="300"/>
+</p>
+
+<p align="center">
+  <b>Building intelligent systems that learn, adapt, and evolve 🚀</b>
+</p>
+
+<p align="center">
+  🧠 Machine Learning | Deep Learning | Data Science | Automation
+</p>
 
 ---
 
