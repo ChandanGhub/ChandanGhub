@@ -1,7 +1,7 @@
 # ⭐ About Me
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi!+%F0%9F%91%8B+I'm+Chandan+Kumar;Passionate+B.Tech+Computer+Science+(AI%2FML)+Engineer" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Hi!+%F0%9F%91%8B+I'm+Chandan+Kumar;A+passionate+B.Tech+Computer+Science+(AI%2FML)+Engineer" alt="Typing Animation" />
 </p>
 
 
