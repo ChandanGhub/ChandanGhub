@@ -80,11 +80,14 @@
 
 ---
 
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake (Live Animation)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
+![snake dark](https://github.com/ChandanGhub/ChandanGhub/blob/output/snake.svg)
+
+# 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ChandanGhub&theme=tokyo-night&hide_border=true" />
+
 
 ---
 
