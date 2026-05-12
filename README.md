@@ -2,9 +2,16 @@
      AI/ML THEMED GITHUB README
 ========================= -->
 
-<!-- Animated Banner -->
+<!-- =========================
+        NEW HEADER DESIGN
+========================= -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=250&section=header&text=Chandan%20Kumar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20%7C%20ML%20Engineer%20🤖&descAlignY=60" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=200&section=header&text=Chandan%20Kumar&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20%26%20Machine%20Learning%20Engineer&descAlignY=65" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+Enthusiast;Machine+Learning+Developer;Building+Smart+Solutions+🚀;Always+Learning+New+Things+🧠" />
 </p>
 
 <!-- Typing Animation -->
