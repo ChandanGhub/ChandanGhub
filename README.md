@@ -1,10 +1,10 @@
 <!-- Animated -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0c2a,100:1a1b4b&height=220&section=header&text=Chandan%20Kumar&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20Explorer%20%7C%20Machine%20Learning%20Engineer&descAlignY=65" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1c1c1c,100:2b5876&height=220&section=header&text=Chandan%20Kumar&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20%7C%20ML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=65" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=8AB4F8&center=true&vCenter=true&width=900&lines=Exploring+Artificial+Intelligence;Journey+Through+Data+Universes;Building+Interstellar+AI+Models;Code+Beyond+Stars+🚀" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=ffffff&center=true&vCenter=true&width=900&lines=Clean+Architecture+%7C+Smart+AI+Systems;Data+Driven+Development;Precision+%7C+Performance+%7C+Perfection" />
 </p>
 
 <!-- Typing Animation -->
