@@ -1,105 +1,37 @@
-# ⭐ About Me
+<!-- =========================
+     AI/ML THEMED GITHUB README
+========================= -->
 
+<!-- Animated Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Hi!+%F0%9F%91%8B+I'm+Chandan+Kumar;A+passionate+B.Tech+Computer+Science+(AI%2FML)+Engineer" alt="Typing Animation" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=250&section=header&text=Chandan%20Kumar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20%7C%20ML%20Engineer%20🤖&descAlignY=60" />
 </p>
 
-
-## I specialize in building intelligent systems using Machine Learning, Deep Learning, and AI Agents. I enjoy solving real-world problems using data-driven approaches and continuously exploring new technologies.
-
-- 🔭 I’m currently working on MultiAgent System.
-- 🌱 I’m currently learning Computer Vision.
-- 👯 I’m looking to collaborate on project from which i can upskill myself and implements my idea.
-- 🤔 I’m looking for help with AI/ML internship.
-- 🧠 I'm Strong in DSA & Problem Solving.
-
-
-
-  ## 🚀 Tech Stack
-
-### 💻 Languages
+<!-- Typing Animation -->
 <p align="center">
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Hi!+👋+I'm+Chandan+Kumar;A+passionate+B.Tech+Computer+Science+(AI%2FML)+Engineer;AI%2FML+Enthusiast+🤖;Passionate+Developer+🚀" />
 </p>
 
-### 🤖 AI/ML
-
+<!-- AI Animation GIF -->
 <p align="center">
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge"/>
-
+  <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="400"/>
 </p>
 
-### ⚙️ Tools
+---
 
-<p align="center">
+# 🧠 About Me
 
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+```python
+class ChandanKumar:
 
-<br>
+    def __init__(self):
+        self.role = "B.Tech CSE (AI/ML) Engineer"
+        self.learning = ["Machine Learning", "Deep Learning", "Web Development"]
+        self.languages = ["Python", "C", "JavaScript"]
+        self.interests = ["AI", "Open Source", "Automation"]
 
+    def say_hi(self):
+        print("Thanks for visiting my GitHub Profile!")
 
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-
-<br>
-
-</p>
-
-## 🐍 Contribution Snake (Live Animation)
-
-![snake dark](https://github.com/ChandanGhub/ChandanGhub/blob/output/snake.svg)
-
-# 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ChandanGhub&theme=tokyo-night&hide_border=true" />
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ChandanGhub&theme=tokyonight&hide_border=true" width="48%" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChandanGhub&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChandanGhub&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-</p>
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/chandan1500">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  
-  <a href="mailto:chandankr03@yahoo.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  
-</p>
+me = ChandanKumar()
+me.say_hi()
