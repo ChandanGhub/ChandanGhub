@@ -109,11 +109,7 @@
 <a href="mailto:chandankr03@yahoo.com">
   <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
-# added duplicate mail
-<a href="mailto:chandankr03@yahoo.com">
-  <img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-###
+
 </p>
 
 ---
