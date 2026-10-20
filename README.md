@@ -90,7 +90,10 @@
 
 # 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ChandanGhub&theme=tokyo-night&hide_border=true" />
+<p align="center">
+  <img src="https://github-readme-activity-graph-sigma-mauve.vercel.app/graph?username=ChandanGhub&theme=tokyo-night&hide_border=true"
+    width="98%" alt="GitHub Activity Graph" />
+</p>
 
 ---
 
