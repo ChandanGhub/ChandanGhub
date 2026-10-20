@@ -21,7 +21,7 @@
 
 ---
 
-# 🤖 AI / ML Focus
+# 🤖 AI / ML 
 
 <p align="center">
   <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="300"/>
@@ -32,7 +32,7 @@
 </p>
 
 <p align="center">
-  🧠 Machine Learning | Deep Learning | Data Science | Automation
+  🧠 Machine Learning | Deep Learning | Artificial Intelligence | Natural Language Processing | Large Language Model | RAG
 </p>
 
 <div align="center">
