@@ -58,12 +58,17 @@
 
 # 📊 GitHub Stats
 
+# <p align="center">
+
+ # <img src="https://github-readme-streak-stats.herokuapp.com?#user=ChandanGhub&theme=tokyonight&hide_border=true" width="48%" />
+
+  # <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChandanGhub&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+
+# </p>
 <p align="center">
-
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ChandanGhub&theme=tokyonight&hide_border=true" width="48%" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChandanGhub&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ChandanGhub&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1&column=7" alt="ChandanGhub Trophies" />
+  </a>
 </p>
 
 <p align="center">
