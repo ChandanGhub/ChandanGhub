@@ -17,6 +17,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Hi!+👋+I'm+Chandan+Kumar;A+passionate+B.Tech+Computer+Science+(AI%2FML)+Engineer;AI%2FML+Enthusiast+🤖;Passionate+Developer+🚀" />
 </p>
 
+<div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=ChandanGhub&style=for-the-badge&color=blueviolet)
+[![GitHub followers](https://img.shields.io/github/followers/ChandanGhub?style=for-the-badge&color=blue&logo=github)](https://github.com/ChandanGhub)
+
+</div>
+
 ---
 
 ---
