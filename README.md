@@ -37,7 +37,6 @@
 
 <div align="center">
   
-![Profile Views](https://komarev.com/ghpvc/?username=ChandanGhub&style=for-the-badge&color=blueviolet)
 [![GitHub followers](https://img.shields.io/github/followers/ChandanGhub?style=for-the-badge&color=blue&logo=github)](https://github.com/ChandanGhub)
 
 </div>
